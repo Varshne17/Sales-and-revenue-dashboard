@@ -71,7 +71,7 @@ California and New York are the top two states by sales, together contributing o
 
 📷 Dashboard Preview
 
-dashboard overview.png
+https://github.com/Varshne17/Sales-and-revenue-dashboard/blob/main/dashboard%20overview.png
 
 🚀 How to View
 1. Download Sales_Revenue_Dashboard.pbix

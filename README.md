@@ -71,6 +71,15 @@ California and New York are the top two states by sales, together contributing o
 
 📷 Dashboard Preview
 
+dashboard overview.png
 
+🚀 How to View
+1. Download Sales_Revenue_Dashboard.pbix
+2. Open it in Power BI Desktop (free)
+3. Use the slicers on the report to explore Region, Category, Segment, and Date filters interactively
+
+📈 Skills Demonstrated
+
+Data cleaning · Data modeling (star schema) · DAX measures & time intelligence · Data visualization · KPI design · Interactive filtering · Business insight generation
 
 
